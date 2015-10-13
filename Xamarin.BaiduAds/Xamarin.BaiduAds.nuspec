@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Xamarin.BaiduAds</id>
+        <version>1.0.0</version>
+        <authors>Yufei Huang</authors>
+        <licenseUrl>https://github.com/yufeih/Xamarin.BaiduAds/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/yufeih/Xamarin.BaiduAds</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Xamarin binding for baidu mobile advertising platform, used by http://talktosomeone.net </description>
+        <tags>Xamarin, Android, Baidu, Ads</tags>
+    </metadata>
+</package>
